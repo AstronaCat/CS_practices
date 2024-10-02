@@ -2,10 +2,9 @@
 
 #### TO PARTICIPATE AND ACHIEVE 3_SOLVED IN 'ASIA PACTIFIC ICPC REGIONAL, SEOUL' (26, OCT)
 
-[latest update: 2024-10-02]
+###### [latest update: 2024-10-02]
 ----
-##### PROBLEM SET: 2019 ICPC Asia Seoul Regional Contest (12Qs)
-##### PROBLEM LIST:
+##### PROBLEM SET: 2019 ICPC Asia Seoul Regional Contest (12Qs) </br>PROBLEM LIST:
 ##### #A. Fire on Field
 ##### #B. Gene Tree
 ##### #C. Islands
