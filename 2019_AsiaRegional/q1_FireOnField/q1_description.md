@@ -1,6 +1,6 @@
 ### Q1. Fire On Field  
 ###### Time Limit: 1s  
-We define **A** as a sequence of positive integers like the following.  
+We define *A* as a sequence of positive integers like the following.  
 </br>Let A[0] = 1, A[1] = 1. </br>For a positive integer i>=2, A[i] is the
 smallest positive integer under the condition that no three terms A[i-2k], A[i-k], and A[i] form an arithmetic progression
 for any integer k > 0 such that i-2k >= 0, that is, A[i] - A[i-k] != A[i-k] - A[i-2k].
