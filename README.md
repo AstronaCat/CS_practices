@@ -1,6 +1,7 @@
 # CS_practices
 ##### To achieve 3_SOLVED in 'ASIA PACTIFIC ICPC REGIONAL, SEOUL' (26, OCT)
 
+###### Lang: Python3
 ###### [latest update: 2024-10-02]
 ----
 ##### PROBLEM SET: 2019 ICPC Asia Regional Contest (12Qs) </br>PROBLEM LIST: 
